@@ -8,7 +8,7 @@
 # Database config (IMPORTANT)
 dbconfig.php
 
-# Logs & temp files
+# Logs & temp
 *.log
 *.cache
 
@@ -17,12 +17,12 @@ dbconfig.php
 *.zip
 *.docx
 
-# OS / editor files
+# OS / editor
 .DS_Store
 .vscode/
 .idea/
 
-# Heavy media files
+# Heavy files only
 Video/
 payments/
 *.mp4
