@@ -1,0 +1,15 @@
+/vendor/
+/node_modules/
+/.env
+.env.*
+*.log
+*.sql
+*.zip
+.DS_Store
+.vscode/
+.idea/
+Video/
+payments/
+*.mp4
+*.zip
+*.docx
