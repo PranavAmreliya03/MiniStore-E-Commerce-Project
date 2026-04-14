@@ -1,15 +1,28 @@
 /vendor/
 /node_modules/
-/.env
+
+# Environment
+.env
 .env.*
+
+# Database config (IMPORTANT)
+dbconfig.php
+
+# Logs & temp files
 *.log
+*.cache
+
+# Database dumps / archives
 *.sql
 *.zip
+*.docx
+
+# OS / editor files
 .DS_Store
 .vscode/
 .idea/
+
+# Heavy media files
 Video/
 payments/
 *.mp4
-*.zip
-*.docx
